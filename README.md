@@ -38,7 +38,7 @@ A modern Android chatbot application that uses the Groq API for AI-powered conve
 
 👉 [Download Orion AI APK](https://drive.google.com/drive/folders/10h6Xbq4UCNg2gP1DM9-zRGK8tcg6NQB4)
 
-> Make sure to enable "Install from Unknown Sources" in your device settings before installing.
+> Make sure to enable "Install from Unknown Sources" in your device settings before installing..
 
 ---
 
